@@ -1,6 +1,6 @@
  ![banner](img/kitten.jpg)
 
- ### Lorem ipsum sic header
+ #### Lorem ipsum sic header
 
 * List
 * of
